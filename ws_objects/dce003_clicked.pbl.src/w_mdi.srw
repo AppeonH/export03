@@ -47,7 +47,7 @@ long BackColor=268435456
 end type
 
 type cb_1 from commandbutton within w_mdi
-integer x = 955
+integer x = 379
 integer y = 600
 integer width = 457
 integer height = 128
